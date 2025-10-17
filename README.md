@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hithubfr/hithubfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer interested in building innovative solutions and contributing to open source projects.
+
+## Technologies & Tools
+
+- 💻 Programming Languages: Python, JavaScript, and more
+- 🛠️ Tools & Frameworks: Git, Docker, and various modern frameworks
+- 🌱 Currently learning and exploring new technologies
+
+## Get in Touch
+
+Feel free to connect with me or explore my projects!
+
+---
+
+*This profile README is a work in progress. Check back for updates!*
