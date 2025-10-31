@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Welcome to my GitHub profile!
-
+[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/REPO_OWNER/REPO_NAME)](https://www.boss.dev/issues/repo/REPO_OWNER/REPO_NAME)
 ## About Me
 
 I'm a passionate developer interested in building innovative solutions and contributing to open source projects.
