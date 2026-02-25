@@ -1,4 +1,4 @@
-# Hi there 👋
+# Salut 👋
 
 Welcome to my GitHub profile!
 
